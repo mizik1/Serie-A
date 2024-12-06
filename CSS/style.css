@@ -47,6 +47,7 @@ body {
   background: none;
   color: #777;
   text-decoration: underline;
+  right: 10px;
 }
 
 .modal h1 {
